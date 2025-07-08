@@ -30,23 +30,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-Here are a few things I’ve been working on:
-
-- 🎯 [**Currency Converter App**](https://github.com/Abdus-8747/currency-converter)  
-  *Built with React + Tailwind CSS – real-time exchange rates and slick UI.*
-
-- 🪨✂️📄 [**Rock Paper Scissors Game**](https://github.com/Abdus-8747/rock-paper-scissors)  
-  *Fun JS game with modern styling.*
-
-- 🖼️ [**Image Generator**](https://github.com/Abdus-8747/image-generator)  
-  *Dynamic tool for generating images.*
-
-Explore [my repositories](https://github.com/Abdus-8747?tab=repositories) for more!
-
----
-
 ## 📈 My GitHub Stats
 
 <p align="center">
